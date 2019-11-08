@@ -1,5 +1,5 @@
 # Messenger
-Messenger with React, ASP.NET and the Server from MessengerTwo
+Messenger with React, ASP.NET, and the Server from MessengerTwo
 
 The component home.js is the chat component - 
 Messenger/ClientApp/src/components/Home.js
